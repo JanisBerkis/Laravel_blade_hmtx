@@ -1,0 +1,12 @@
+.image {
+    margin: 0 0 var(--space-4);
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-radius: var(--radius-m);
+        border: 1px solid var(--color-border);
+    }
+}
+
